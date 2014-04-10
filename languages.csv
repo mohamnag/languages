@@ -1,0 +1,185 @@
+id;english;native;enabled;iso6391;iso6392
+2;Abkhazian;Аҧсуа;0;ab;abk
+3;Afar;Afaraf;0;aa;aar
+4;Afrikaans;Afrikaans;0;af;afr
+5;Akan;Akan;0;ak;aka
+6;Albanian;Shqip;0;sq;sqi
+7;Amharic;አማርኛ;0;am;amh
+8;Arabic;العربية;0;ar;ara
+9;Aragonese;Aragonés;0;an;arg
+10;Assamese;অসমীয়া;0;as;asm
+11;Armenian;Հայերեն;0;hy;hye
+12;Avaric;"авар мацӀ, магӀарул мацӀ";0;av;ava
+13;Avestan;avesta;0;ae;ave
+14;Aymara;"aymar aru";0;ay;aym
+15;Azerbaijani;"azərbaycan dili";0;az;aze
+16;Bashkir;"башҡорт теле";0;ba;bak
+17;Bambara;bamanankan;0;bm;bam
+18;Basque;"euskara, euskera";0;eu;eus
+19;Belarusian;Беларуская;0;be;bel
+20;Bengali;বাংলা;0;bn;ben
+21;Bihari;भोजपुरी;0;bh;bih
+22;Bislama;Bislama;0;bi;bis
+23;Bosnian;"bosanski jezik";0;bs;bos
+24;Breton;brezhoneg;0;br;bre
+25;Bulgarian;"български език";0;bg;bul
+26;Burmese;ဗမာစာ;0;my;mya
+27;"Catalan; Valencian";Català;0;ca;cat
+28;Chamorro;Chamoru;0;ch;cha
+29;Chechen;"нохчийн мотт";0;ce;che
+30;"Chichewa; Chewa; Nyanja";"chiCheŵa, chinyanja";0;ny;nya
+31;Chinese;"中文 (Zhōngwén), 汉语, 漢語";0;zh;zho
+32;Chuvash;"чӑваш чӗлхи";0;cv;chv
+33;Cornish;Kernewek;0;kw;cor
+34;Corsican;"corsu, lingua corsa";0;co;cos
+35;Cree;ᓀᐦᐃᔭᐍᐏᐣ;0;cr;cre
+36;Croatian;hrvatski;0;hr;hrv
+37;Czech;"česky, čeština";0;cs;ces
+38;Danish;dansk;0;da;dan
+39;"Divehi; Dhivehi; Maldivian;";ދިވެހި;0;dv;div
+40;Dzongkha;རྫོང་ཁ;0;dz;dzo
+41;English;English;0;en;eng
+42;Esperanto;Esperanto;0;eo;epo
+43;Estonian;"eesti, eesti keel";0;et;est
+44;Ewe;Eʋegbe;0;ee;ewe
+45;Faroese;føroyskt;0;fo;fao
+46;Fijian;"vosa Vakaviti";0;fj;fij
+47;Finnish;"suomi, suomen kieli";0;fi;fin
+48;French;"français, langue française";0;fr;fra
+49;"Fula; Fulah; Pulaar; Pular";"Fulfulde, Pulaar, Pular";0;ff;ful
+50;Galician;Galego;0;gl;glg
+51;German;Deutsch;0;de;deu
+52;"Greek, Modern";Ελληνικά;0;el;ell
+53;Guaraní;Avañe'ẽ;0;gn;grn
+54;Gujarati;ગુજરાતી;0;gu;guj
+55;"Haitian; Haitian Creole";"Kreyòl ayisyen";0;ht;hat
+56;Hausa;"Hausa, هَوُسَ";0;ha;hau
+57;"Hebrew, Modern";עברית;0;he;heb
+58;Herero;Otjiherero;0;hz;her
+59;Hindi;"हिन्दी, हिंदी";0;hi;hin
+60;"Hiri Motu";"Hiri Motu";0;ho;hmo
+61;Hungarian;Magyar;0;hu;hun
+62;"Interlingua (International Auxiliary Language Association)";Interlingua;0;ia;ina
+63;Indonesian;"Bahasa Indonesia";0;id;ind
+64;"Interlingue, Occidental";Interlingue;0;ie;ile
+65;Irish;Gaeilge;0;ga;gle
+66;Igbo;Igbo;0;ig;ibo
+67;"Sichuan Yi, Nuosu";ꆇꉙ;0;ii;iii
+68;Inupiaq;"Iñupiaq, Iñupiatun";0;ik;ipk
+69;Ido;Ido;0;io;ido
+70;Icelandic;Íslenska;0;is;isl
+71;Italian;Italiano;0;it;ita
+72;Inuktitut;ᐃᓄᒃᑎᑐᑦ;0;iu;iku
+73;Japanese;"日本語 (にほんご／にっぽんご)";0;ja;jpn
+74;Javanese;"basa Jawa";0;jv;jav
+75;Georgian;ქართული;0;ka;kat
+76;Kongo;KiKongo;0;kg;kon
+77;"Kikuyu, Gikuyu";Gĩkũyũ;0;ki;kik
+78;"Kwanyama, Kuanyama";Kuanyama;0;kj;kua
+79;Kazakh;"Қазақ тілі";0;kk;kaz
+80;"Kalaallisut, Greenlandic";"kalaallisut, kalaallit oqaasii";0;kl;kal
+81;"Central Khmer";ភាសាខ្មែរ;0;km;khm
+82;Kannada;ಕನ್ನಡ;0;kn;kan
+83;Korean;"한국어 (韓國語), 조선말 (朝鮮語)";0;ko;kor
+84;Kanuri;Kanuri;0;kr;kau
+85;Kashmiri;"कश्मीरी, كشميري‎";0;ks;kas
+86;Kurdish;"Kurdî, كوردی‎";0;ku;kur
+87;Komi;"коми кыв";0;kv;kom
+88;"Kirghiz, Kyrgyz";"кыргыз тили";0;ky;kir
+89;Latin;"latine, lingua latina";0;la;lat
+90;"Luxembourgish, Letzeburgesch";Lëtzebuergesch;0;lb;ltz
+91;Luganda;Luganda;0;lg;lug
+92;"Limburgish, Limburgan, Limburger";Limburgs;0;li;lim
+93;Lingala;Lingála;0;ln;lin
+94;Lao;ພາສາລາວ;0;lo;lao
+95;Lithuanian;"lietuvių kalba";0;lt;lit
+96;Luba-Katanga;;0;lu;lub
+97;Latvian;"latviešu valoda";0;lv;lav
+98;Malagasy;"Malagasy fiteny";0;mg;mlg
+99;Marshallese;"Kajin M̧ajeļ";0;mh;mah
+100;Manx;"Gaelg, Gailck";0;gv;glv
+101;Māori;"te reo Māori";0;mi;mri
+102;Macedonian;"македонски јазик";0;mk;mkd
+103;Malayalam;മലയാളം;0;ml;mal
+104;Mongolian;Монгол;0;mn;mon
+105;Marathi;मराठी;0;mr;mar
+106;Malay;"bahasa Melayu, بهاس ملايو‎";0;ms;msa
+107;Maltese;Malti;0;mt;mlt
+108;Nauru;"Ekakairũ Naoero";0;na;nau
+109;"Norwegian Bokmål";"Norsk bokmål";0;nb;nob
+110;"North Ndebele";isiNdebele;0;nd;nde
+111;Nepali;नेपाली;0;ne;nep
+112;Ndonga;Owambo;0;ng;ndo
+113;"Dutch, Flemish";"Nederlands, Vlaams";0;nl;nld
+114;"Norwegian Nynorsk";"Norsk nynorsk";0;nn;nno
+115;Norwegian;Norsk;0;no;nor
+116;"South Ndebele";isiNdebele;0;nr;nbl
+117;"Navajo, Navaho";"Diné bizaad, Dinékʼehǰí";0;nv;nav
+118;"Occitan (after 1500)";Occitan;0;oc;oci
+119;Ojibwa;ᐊᓂᔑᓈᐯᒧᐎᓐ;0;oj;oji
+120;"Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic";"ѩзыкъ словѣньскъ";0;cu;chu
+121;Oromo;"Afaan Oromoo";0;om;orm
+122;Oriya;ଓଡ଼ିଆ;0;or;ori
+123;"Ossetian, Ossetic";"Ирон æвзаг";0;os;oss
+124;"Panjabi, Punjabi";"ਪੰਜਾਬੀ, پنجابی‎";0;pa;pan
+125;Pāli;पाऴि;0;pi;pli
+126;Persian;فارسی;0;fa;fas
+127;Polish;polski;0;pl;pol
+128;"Pashto, Pushto";پښتو;0;ps;pus
+129;Portuguese;Português;0;pt;por
+130;Quechua;"Runa Simi, Kichwa";0;qu;que
+131;Romansh;"rumantsch grischun";0;rm;roh
+132;Kirundi;kiRundi;0;rn;run
+133;"Romanian, Moldavian, Moldovan";română;0;ro;ron
+134;Russian;"Русский язык";0;ru;rus
+135;Kinyarwanda;Ikinyarwanda;0;rw;kin
+136;Sanskrit;संस्कृतम्;0;sa;san
+137;Sardinian;sardu;0;sc;srd
+138;Sindhi;"सिन्धी, سنڌي، سندھی‎";0;sd;snd
+139;"Northern Sami";Davvisámegiella;0;se;sme
+140;Samoan;"gagana fa'a Samoa";0;sm;smo
+141;Sango;"yângâ tî sängö";0;sg;sag
+142;Serbian;"српски језик";0;sr;srp
+143;"Scottish Gaelic; Gaelic";Gàidhlig;0;gd;gla
+144;Shona;chiShona;0;sn;sna
+145;"Sinhala, Sinhalese";සිංහල;0;si;sin
+146;Slovak;slovenčina;0;sk;slk
+147;Slovene;slovenščina;0;sl;slv
+148;Somali;"Soomaaliga, af Soomaali";0;so;som
+149;"Southern Sotho";Sesotho;0;st;sot
+150;"Spanish; Castilian";"español, castellano";0;es;spa
+151;Sundanese;"Basa Sunda";0;su;sun
+152;Swahili;Kiswahili;0;sw;swa
+153;Swati;SiSwati;0;ss;ssw
+154;Swedish;svenska;0;sv;swe
+155;Tamil;தமிழ்;0;ta;tam
+156;Telugu;తెలుగు;0;te;tel
+157;Tajik;"тоҷикӣ, toğikī, تاجیکی‎";0;tg;tgk
+158;Thai;ไทย;0;th;tha
+159;Tigrinya;ትግርኛ;0;ti;tir
+160;"Tibetan Standard, Tibetan, Central";བོད་ཡིག;0;bo;bod
+161;Turkmen;"Türkmen, Түркмен";0;tk;tuk
+162;Tagalog;"Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔";0;tl;tgl
+163;Tswana;Setswana;0;tn;tsn
+164;"Tonga (Tonga Islands)";"faka Tonga";0;to;ton
+165;Turkish;Türkçe;0;tr;tur
+166;Tsonga;Xitsonga;0;ts;tso
+167;Tatar;"татарча, tatarça, تاتارچا‎";0;tt;tat
+168;Twi;Twi;0;tw;twi
+169;Tahitian;"Reo Mā`ohi";0;ty;tah
+170;"Uighur, Uyghur";"Uyƣurqə, ئۇيغۇرچە‎";0;ug;uig
+171;Ukrainian;Українська;0;uk;ukr
+172;Urdu;اردو;0;ur;urd
+173;Uzbek;"O'zbek, Ўзбек, أۇزبېك‎";0;uz;uzb
+174;Venda;Tshivenḓa;0;ve;ven
+175;Vietnamese;"Tiếng Việt";0;vi;vie
+176;Volapük;Volapük;0;vo;vol
+177;Walloon;Walon;0;wa;wln
+178;Welsh;Cymraeg;0;cy;cym
+179;Wolof;Wollof;0;wo;wol
+180;"Western Frisian";Frysk;0;fy;fry
+181;Xhosa;isiXhosa;0;xh;xho
+182;Yiddish;ייִדיש;0;yi;yid
+183;Yoruba;Yorùbá;0;yo;yor
+184;"Zhuang, Chuang";"Saɯ cueŋƅ, Saw cuengh";0;za;zha
+185;Zulu;isiZulu;0;zu;zul

@@ -1,0 +1,1658 @@
+<DATA>
+
+	<ROW>
+		<id>2</id>
+		<english>Abkhazian</english>
+		<native>Аҧсуа</native>
+		<enabled>0</enabled>
+		<iso6391>ab</iso6391>
+		<iso6392>abk</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>3</id>
+		<english>Afar</english>
+		<native>Afaraf</native>
+		<enabled>0</enabled>
+		<iso6391>aa</iso6391>
+		<iso6392>aar</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>4</id>
+		<english>Afrikaans</english>
+		<native>Afrikaans</native>
+		<enabled>0</enabled>
+		<iso6391>af</iso6391>
+		<iso6392>afr</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>5</id>
+		<english>Akan</english>
+		<native>Akan</native>
+		<enabled>0</enabled>
+		<iso6391>ak</iso6391>
+		<iso6392>aka</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>6</id>
+		<english>Albanian</english>
+		<native>Shqip</native>
+		<enabled>0</enabled>
+		<iso6391>sq</iso6391>
+		<iso6392>sqi</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>7</id>
+		<english>Amharic</english>
+		<native>አማርኛ</native>
+		<enabled>0</enabled>
+		<iso6391>am</iso6391>
+		<iso6392>amh</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>8</id>
+		<english>Arabic</english>
+		<native>العربية</native>
+		<enabled>0</enabled>
+		<iso6391>ar</iso6391>
+		<iso6392>ara</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>9</id>
+		<english>Aragonese</english>
+		<native>Aragonés</native>
+		<enabled>0</enabled>
+		<iso6391>an</iso6391>
+		<iso6392>arg</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>10</id>
+		<english>Assamese</english>
+		<native>অসমীয়া</native>
+		<enabled>0</enabled>
+		<iso6391>as</iso6391>
+		<iso6392>asm</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>11</id>
+		<english>Armenian</english>
+		<native>Հայերեն</native>
+		<enabled>0</enabled>
+		<iso6391>hy</iso6391>
+		<iso6392>hye</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>12</id>
+		<english>Avaric</english>
+		<native>авар мацӀ, магӀарул мацӀ</native>
+		<enabled>0</enabled>
+		<iso6391>av</iso6391>
+		<iso6392>ava</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>13</id>
+		<english>Avestan</english>
+		<native>avesta</native>
+		<enabled>0</enabled>
+		<iso6391>ae</iso6391>
+		<iso6392>ave</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>14</id>
+		<english>Aymara</english>
+		<native>aymar aru</native>
+		<enabled>0</enabled>
+		<iso6391>ay</iso6391>
+		<iso6392>aym</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>15</id>
+		<english>Azerbaijani</english>
+		<native>azərbaycan dili</native>
+		<enabled>0</enabled>
+		<iso6391>az</iso6391>
+		<iso6392>aze</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>16</id>
+		<english>Bashkir</english>
+		<native>башҡорт теле</native>
+		<enabled>0</enabled>
+		<iso6391>ba</iso6391>
+		<iso6392>bak</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>17</id>
+		<english>Bambara</english>
+		<native>bamanankan</native>
+		<enabled>0</enabled>
+		<iso6391>bm</iso6391>
+		<iso6392>bam</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>18</id>
+		<english>Basque</english>
+		<native>euskara, euskera</native>
+		<enabled>0</enabled>
+		<iso6391>eu</iso6391>
+		<iso6392>eus</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>19</id>
+		<english>Belarusian</english>
+		<native>Беларуская</native>
+		<enabled>0</enabled>
+		<iso6391>be</iso6391>
+		<iso6392>bel</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>20</id>
+		<english>Bengali</english>
+		<native>বাংলা</native>
+		<enabled>0</enabled>
+		<iso6391>bn</iso6391>
+		<iso6392>ben</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>21</id>
+		<english>Bihari</english>
+		<native>भोजपुरी</native>
+		<enabled>0</enabled>
+		<iso6391>bh</iso6391>
+		<iso6392>bih</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>22</id>
+		<english>Bislama</english>
+		<native>Bislama</native>
+		<enabled>0</enabled>
+		<iso6391>bi</iso6391>
+		<iso6392>bis</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>23</id>
+		<english>Bosnian</english>
+		<native>bosanski jezik</native>
+		<enabled>0</enabled>
+		<iso6391>bs</iso6391>
+		<iso6392>bos</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>24</id>
+		<english>Breton</english>
+		<native>brezhoneg</native>
+		<enabled>0</enabled>
+		<iso6391>br</iso6391>
+		<iso6392>bre</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>25</id>
+		<english>Bulgarian</english>
+		<native>български език</native>
+		<enabled>0</enabled>
+		<iso6391>bg</iso6391>
+		<iso6392>bul</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>26</id>
+		<english>Burmese</english>
+		<native>ဗမာစာ</native>
+		<enabled>0</enabled>
+		<iso6391>my</iso6391>
+		<iso6392>mya</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>27</id>
+		<english>Catalan; Valencian</english>
+		<native>Català</native>
+		<enabled>0</enabled>
+		<iso6391>ca</iso6391>
+		<iso6392>cat</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>28</id>
+		<english>Chamorro</english>
+		<native>Chamoru</native>
+		<enabled>0</enabled>
+		<iso6391>ch</iso6391>
+		<iso6392>cha</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>29</id>
+		<english>Chechen</english>
+		<native>нохчийн мотт</native>
+		<enabled>0</enabled>
+		<iso6391>ce</iso6391>
+		<iso6392>che</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>30</id>
+		<english>Chichewa; Chewa; Nyanja</english>
+		<native>chiCheŵa, chinyanja</native>
+		<enabled>0</enabled>
+		<iso6391>ny</iso6391>
+		<iso6392>nya</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>31</id>
+		<english>Chinese</english>
+		<native>中文 (Zhōngwén), 汉语, 漢語</native>
+		<enabled>0</enabled>
+		<iso6391>zh</iso6391>
+		<iso6392>zho</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>32</id>
+		<english>Chuvash</english>
+		<native>чӑваш чӗлхи</native>
+		<enabled>0</enabled>
+		<iso6391>cv</iso6391>
+		<iso6392>chv</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>33</id>
+		<english>Cornish</english>
+		<native>Kernewek</native>
+		<enabled>0</enabled>
+		<iso6391>kw</iso6391>
+		<iso6392>cor</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>34</id>
+		<english>Corsican</english>
+		<native>corsu, lingua corsa</native>
+		<enabled>0</enabled>
+		<iso6391>co</iso6391>
+		<iso6392>cos</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>35</id>
+		<english>Cree</english>
+		<native>ᓀᐦᐃᔭᐍᐏᐣ</native>
+		<enabled>0</enabled>
+		<iso6391>cr</iso6391>
+		<iso6392>cre</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>36</id>
+		<english>Croatian</english>
+		<native>hrvatski</native>
+		<enabled>0</enabled>
+		<iso6391>hr</iso6391>
+		<iso6392>hrv</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>37</id>
+		<english>Czech</english>
+		<native>česky, čeština</native>
+		<enabled>0</enabled>
+		<iso6391>cs</iso6391>
+		<iso6392>ces</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>38</id>
+		<english>Danish</english>
+		<native>dansk</native>
+		<enabled>0</enabled>
+		<iso6391>da</iso6391>
+		<iso6392>dan</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>39</id>
+		<english>Divehi; Dhivehi; Maldivian;</english>
+		<native>ދިވެހި</native>
+		<enabled>0</enabled>
+		<iso6391>dv</iso6391>
+		<iso6392>div</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>40</id>
+		<english>Dzongkha</english>
+		<native>རྫོང་ཁ</native>
+		<enabled>0</enabled>
+		<iso6391>dz</iso6391>
+		<iso6392>dzo</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>41</id>
+		<english>English</english>
+		<native>English</native>
+		<enabled>0</enabled>
+		<iso6391>en</iso6391>
+		<iso6392>eng</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>42</id>
+		<english>Esperanto</english>
+		<native>Esperanto</native>
+		<enabled>0</enabled>
+		<iso6391>eo</iso6391>
+		<iso6392>epo</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>43</id>
+		<english>Estonian</english>
+		<native>eesti, eesti keel</native>
+		<enabled>0</enabled>
+		<iso6391>et</iso6391>
+		<iso6392>est</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>44</id>
+		<english>Ewe</english>
+		<native>Eʋegbe</native>
+		<enabled>0</enabled>
+		<iso6391>ee</iso6391>
+		<iso6392>ewe</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>45</id>
+		<english>Faroese</english>
+		<native>føroyskt</native>
+		<enabled>0</enabled>
+		<iso6391>fo</iso6391>
+		<iso6392>fao</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>46</id>
+		<english>Fijian</english>
+		<native>vosa Vakaviti</native>
+		<enabled>0</enabled>
+		<iso6391>fj</iso6391>
+		<iso6392>fij</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>47</id>
+		<english>Finnish</english>
+		<native>suomi, suomen kieli</native>
+		<enabled>0</enabled>
+		<iso6391>fi</iso6391>
+		<iso6392>fin</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>48</id>
+		<english>French</english>
+		<native>français, langue française</native>
+		<enabled>0</enabled>
+		<iso6391>fr</iso6391>
+		<iso6392>fra</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>49</id>
+		<english>Fula; Fulah; Pulaar; Pular</english>
+		<native>Fulfulde, Pulaar, Pular</native>
+		<enabled>0</enabled>
+		<iso6391>ff</iso6391>
+		<iso6392>ful</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>50</id>
+		<english>Galician</english>
+		<native>Galego</native>
+		<enabled>0</enabled>
+		<iso6391>gl</iso6391>
+		<iso6392>glg</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>51</id>
+		<english>German</english>
+		<native>Deutsch</native>
+		<enabled>0</enabled>
+		<iso6391>de</iso6391>
+		<iso6392>deu</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>52</id>
+		<english>Greek, Modern</english>
+		<native>Ελληνικά</native>
+		<enabled>0</enabled>
+		<iso6391>el</iso6391>
+		<iso6392>ell</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>53</id>
+		<english>Guaraní</english>
+		<native>Avañe&#39;ẽ</native>
+		<enabled>0</enabled>
+		<iso6391>gn</iso6391>
+		<iso6392>grn</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>54</id>
+		<english>Gujarati</english>
+		<native>ગુજરાતી</native>
+		<enabled>0</enabled>
+		<iso6391>gu</iso6391>
+		<iso6392>guj</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>55</id>
+		<english>Haitian; Haitian Creole</english>
+		<native>Kreyòl ayisyen</native>
+		<enabled>0</enabled>
+		<iso6391>ht</iso6391>
+		<iso6392>hat</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>56</id>
+		<english>Hausa</english>
+		<native>Hausa, هَوُسَ</native>
+		<enabled>0</enabled>
+		<iso6391>ha</iso6391>
+		<iso6392>hau</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>57</id>
+		<english>Hebrew, Modern</english>
+		<native>עברית</native>
+		<enabled>0</enabled>
+		<iso6391>he</iso6391>
+		<iso6392>heb</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>58</id>
+		<english>Herero</english>
+		<native>Otjiherero</native>
+		<enabled>0</enabled>
+		<iso6391>hz</iso6391>
+		<iso6392>her</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>59</id>
+		<english>Hindi</english>
+		<native>हिन्दी, हिंदी</native>
+		<enabled>0</enabled>
+		<iso6391>hi</iso6391>
+		<iso6392>hin</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>60</id>
+		<english>Hiri Motu</english>
+		<native>Hiri Motu</native>
+		<enabled>0</enabled>
+		<iso6391>ho</iso6391>
+		<iso6392>hmo</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>61</id>
+		<english>Hungarian</english>
+		<native>Magyar</native>
+		<enabled>0</enabled>
+		<iso6391>hu</iso6391>
+		<iso6392>hun</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>62</id>
+		<english>Interlingua (International Auxiliary Language Association)</english>
+		<native>Interlingua</native>
+		<enabled>0</enabled>
+		<iso6391>ia</iso6391>
+		<iso6392>ina</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>63</id>
+		<english>Indonesian</english>
+		<native>Bahasa Indonesia</native>
+		<enabled>0</enabled>
+		<iso6391>id</iso6391>
+		<iso6392>ind</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>64</id>
+		<english>Interlingue, Occidental</english>
+		<native>Interlingue</native>
+		<enabled>0</enabled>
+		<iso6391>ie</iso6391>
+		<iso6392>ile</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>65</id>
+		<english>Irish</english>
+		<native>Gaeilge</native>
+		<enabled>0</enabled>
+		<iso6391>ga</iso6391>
+		<iso6392>gle</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>66</id>
+		<english>Igbo</english>
+		<native>Igbo</native>
+		<enabled>0</enabled>
+		<iso6391>ig</iso6391>
+		<iso6392>ibo</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>67</id>
+		<english>Sichuan Yi, Nuosu</english>
+		<native>ꆇꉙ</native>
+		<enabled>0</enabled>
+		<iso6391>ii</iso6391>
+		<iso6392>iii</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>68</id>
+		<english>Inupiaq</english>
+		<native>Iñupiaq, Iñupiatun</native>
+		<enabled>0</enabled>
+		<iso6391>ik</iso6391>
+		<iso6392>ipk</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>69</id>
+		<english>Ido</english>
+		<native>Ido</native>
+		<enabled>0</enabled>
+		<iso6391>io</iso6391>
+		<iso6392>ido</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>70</id>
+		<english>Icelandic</english>
+		<native>Íslenska</native>
+		<enabled>0</enabled>
+		<iso6391>is</iso6391>
+		<iso6392>isl</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>71</id>
+		<english>Italian</english>
+		<native>Italiano</native>
+		<enabled>0</enabled>
+		<iso6391>it</iso6391>
+		<iso6392>ita</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>72</id>
+		<english>Inuktitut</english>
+		<native>ᐃᓄᒃᑎᑐᑦ</native>
+		<enabled>0</enabled>
+		<iso6391>iu</iso6391>
+		<iso6392>iku</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>73</id>
+		<english>Japanese</english>
+		<native>日本語 (にほんご／にっぽんご)</native>
+		<enabled>0</enabled>
+		<iso6391>ja</iso6391>
+		<iso6392>jpn</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>74</id>
+		<english>Javanese</english>
+		<native>basa Jawa</native>
+		<enabled>0</enabled>
+		<iso6391>jv</iso6391>
+		<iso6392>jav</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>75</id>
+		<english>Georgian</english>
+		<native>ქართული</native>
+		<enabled>0</enabled>
+		<iso6391>ka</iso6391>
+		<iso6392>kat</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>76</id>
+		<english>Kongo</english>
+		<native>KiKongo</native>
+		<enabled>0</enabled>
+		<iso6391>kg</iso6391>
+		<iso6392>kon</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>77</id>
+		<english>Kikuyu, Gikuyu</english>
+		<native>Gĩkũyũ</native>
+		<enabled>0</enabled>
+		<iso6391>ki</iso6391>
+		<iso6392>kik</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>78</id>
+		<english>Kwanyama, Kuanyama</english>
+		<native>Kuanyama</native>
+		<enabled>0</enabled>
+		<iso6391>kj</iso6391>
+		<iso6392>kua</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>79</id>
+		<english>Kazakh</english>
+		<native>Қазақ тілі</native>
+		<enabled>0</enabled>
+		<iso6391>kk</iso6391>
+		<iso6392>kaz</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>80</id>
+		<english>Kalaallisut, Greenlandic</english>
+		<native>kalaallisut, kalaallit oqaasii</native>
+		<enabled>0</enabled>
+		<iso6391>kl</iso6391>
+		<iso6392>kal</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>81</id>
+		<english>Central Khmer</english>
+		<native>ភាសាខ្មែរ</native>
+		<enabled>0</enabled>
+		<iso6391>km</iso6391>
+		<iso6392>khm</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>82</id>
+		<english>Kannada</english>
+		<native>ಕನ್ನಡ</native>
+		<enabled>0</enabled>
+		<iso6391>kn</iso6391>
+		<iso6392>kan</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>83</id>
+		<english>Korean</english>
+		<native>한국어 (韓國語), 조선말 (朝鮮語)</native>
+		<enabled>0</enabled>
+		<iso6391>ko</iso6391>
+		<iso6392>kor</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>84</id>
+		<english>Kanuri</english>
+		<native>Kanuri</native>
+		<enabled>0</enabled>
+		<iso6391>kr</iso6391>
+		<iso6392>kau</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>85</id>
+		<english>Kashmiri</english>
+		<native>कश्मीरी, كشميري‎</native>
+		<enabled>0</enabled>
+		<iso6391>ks</iso6391>
+		<iso6392>kas</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>86</id>
+		<english>Kurdish</english>
+		<native>Kurdî, كوردی‎</native>
+		<enabled>0</enabled>
+		<iso6391>ku</iso6391>
+		<iso6392>kur</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>87</id>
+		<english>Komi</english>
+		<native>коми кыв</native>
+		<enabled>0</enabled>
+		<iso6391>kv</iso6391>
+		<iso6392>kom</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>88</id>
+		<english>Kirghiz, Kyrgyz</english>
+		<native>кыргыз тили</native>
+		<enabled>0</enabled>
+		<iso6391>ky</iso6391>
+		<iso6392>kir</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>89</id>
+		<english>Latin</english>
+		<native>latine, lingua latina</native>
+		<enabled>0</enabled>
+		<iso6391>la</iso6391>
+		<iso6392>lat</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>90</id>
+		<english>Luxembourgish, Letzeburgesch</english>
+		<native>Lëtzebuergesch</native>
+		<enabled>0</enabled>
+		<iso6391>lb</iso6391>
+		<iso6392>ltz</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>91</id>
+		<english>Luganda</english>
+		<native>Luganda</native>
+		<enabled>0</enabled>
+		<iso6391>lg</iso6391>
+		<iso6392>lug</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>92</id>
+		<english>Limburgish, Limburgan, Limburger</english>
+		<native>Limburgs</native>
+		<enabled>0</enabled>
+		<iso6391>li</iso6391>
+		<iso6392>lim</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>93</id>
+		<english>Lingala</english>
+		<native>Lingála</native>
+		<enabled>0</enabled>
+		<iso6391>ln</iso6391>
+		<iso6392>lin</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>94</id>
+		<english>Lao</english>
+		<native>ພາສາລາວ</native>
+		<enabled>0</enabled>
+		<iso6391>lo</iso6391>
+		<iso6392>lao</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>95</id>
+		<english>Lithuanian</english>
+		<native>lietuvių kalba</native>
+		<enabled>0</enabled>
+		<iso6391>lt</iso6391>
+		<iso6392>lit</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>96</id>
+		<english>Luba-Katanga</english>
+		<native></native>
+		<enabled>0</enabled>
+		<iso6391>lu</iso6391>
+		<iso6392>lub</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>97</id>
+		<english>Latvian</english>
+		<native>latviešu valoda</native>
+		<enabled>0</enabled>
+		<iso6391>lv</iso6391>
+		<iso6392>lav</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>98</id>
+		<english>Malagasy</english>
+		<native>Malagasy fiteny</native>
+		<enabled>0</enabled>
+		<iso6391>mg</iso6391>
+		<iso6392>mlg</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>99</id>
+		<english>Marshallese</english>
+		<native>Kajin M̧ajeļ</native>
+		<enabled>0</enabled>
+		<iso6391>mh</iso6391>
+		<iso6392>mah</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>100</id>
+		<english>Manx</english>
+		<native>Gaelg, Gailck</native>
+		<enabled>0</enabled>
+		<iso6391>gv</iso6391>
+		<iso6392>glv</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>101</id>
+		<english>Māori</english>
+		<native>te reo Māori</native>
+		<enabled>0</enabled>
+		<iso6391>mi</iso6391>
+		<iso6392>mri</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>102</id>
+		<english>Macedonian</english>
+		<native>македонски јазик</native>
+		<enabled>0</enabled>
+		<iso6391>mk</iso6391>
+		<iso6392>mkd</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>103</id>
+		<english>Malayalam</english>
+		<native>മലയാളം</native>
+		<enabled>0</enabled>
+		<iso6391>ml</iso6391>
+		<iso6392>mal</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>104</id>
+		<english>Mongolian</english>
+		<native>Монгол</native>
+		<enabled>0</enabled>
+		<iso6391>mn</iso6391>
+		<iso6392>mon</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>105</id>
+		<english>Marathi</english>
+		<native>मराठी</native>
+		<enabled>0</enabled>
+		<iso6391>mr</iso6391>
+		<iso6392>mar</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>106</id>
+		<english>Malay</english>
+		<native>bahasa Melayu, بهاس ملايو‎</native>
+		<enabled>0</enabled>
+		<iso6391>ms</iso6391>
+		<iso6392>msa</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>107</id>
+		<english>Maltese</english>
+		<native>Malti</native>
+		<enabled>0</enabled>
+		<iso6391>mt</iso6391>
+		<iso6392>mlt</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>108</id>
+		<english>Nauru</english>
+		<native>Ekakairũ Naoero</native>
+		<enabled>0</enabled>
+		<iso6391>na</iso6391>
+		<iso6392>nau</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>109</id>
+		<english>Norwegian Bokmål</english>
+		<native>Norsk bokmål</native>
+		<enabled>0</enabled>
+		<iso6391>nb</iso6391>
+		<iso6392>nob</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>110</id>
+		<english>North Ndebele</english>
+		<native>isiNdebele</native>
+		<enabled>0</enabled>
+		<iso6391>nd</iso6391>
+		<iso6392>nde</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>111</id>
+		<english>Nepali</english>
+		<native>नेपाली</native>
+		<enabled>0</enabled>
+		<iso6391>ne</iso6391>
+		<iso6392>nep</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>112</id>
+		<english>Ndonga</english>
+		<native>Owambo</native>
+		<enabled>0</enabled>
+		<iso6391>ng</iso6391>
+		<iso6392>ndo</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>113</id>
+		<english>Dutch, Flemish</english>
+		<native>Nederlands, Vlaams</native>
+		<enabled>0</enabled>
+		<iso6391>nl</iso6391>
+		<iso6392>nld</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>114</id>
+		<english>Norwegian Nynorsk</english>
+		<native>Norsk nynorsk</native>
+		<enabled>0</enabled>
+		<iso6391>nn</iso6391>
+		<iso6392>nno</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>115</id>
+		<english>Norwegian</english>
+		<native>Norsk</native>
+		<enabled>0</enabled>
+		<iso6391>no</iso6391>
+		<iso6392>nor</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>116</id>
+		<english>South Ndebele</english>
+		<native>isiNdebele</native>
+		<enabled>0</enabled>
+		<iso6391>nr</iso6391>
+		<iso6392>nbl</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>117</id>
+		<english>Navajo, Navaho</english>
+		<native>Diné bizaad, Dinékʼehǰí</native>
+		<enabled>0</enabled>
+		<iso6391>nv</iso6391>
+		<iso6392>nav</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>118</id>
+		<english>Occitan (after 1500)</english>
+		<native>Occitan</native>
+		<enabled>0</enabled>
+		<iso6391>oc</iso6391>
+		<iso6392>oci</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>119</id>
+		<english>Ojibwa</english>
+		<native>ᐊᓂᔑᓈᐯᒧᐎᓐ</native>
+		<enabled>0</enabled>
+		<iso6391>oj</iso6391>
+		<iso6392>oji</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>120</id>
+		<english>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</english>
+		<native>ѩзыкъ словѣньскъ</native>
+		<enabled>0</enabled>
+		<iso6391>cu</iso6391>
+		<iso6392>chu</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>121</id>
+		<english>Oromo</english>
+		<native>Afaan Oromoo</native>
+		<enabled>0</enabled>
+		<iso6391>om</iso6391>
+		<iso6392>orm</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>122</id>
+		<english>Oriya</english>
+		<native>ଓଡ଼ିଆ</native>
+		<enabled>0</enabled>
+		<iso6391>or</iso6391>
+		<iso6392>ori</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>123</id>
+		<english>Ossetian, Ossetic</english>
+		<native>Ирон æвзаг</native>
+		<enabled>0</enabled>
+		<iso6391>os</iso6391>
+		<iso6392>oss</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>124</id>
+		<english>Panjabi, Punjabi</english>
+		<native>ਪੰਜਾਬੀ, پنجابی‎</native>
+		<enabled>0</enabled>
+		<iso6391>pa</iso6391>
+		<iso6392>pan</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>125</id>
+		<english>Pāli</english>
+		<native>पाऴि</native>
+		<enabled>0</enabled>
+		<iso6391>pi</iso6391>
+		<iso6392>pli</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>126</id>
+		<english>Persian</english>
+		<native>فارسی</native>
+		<enabled>0</enabled>
+		<iso6391>fa</iso6391>
+		<iso6392>fas</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>127</id>
+		<english>Polish</english>
+		<native>polski</native>
+		<enabled>0</enabled>
+		<iso6391>pl</iso6391>
+		<iso6392>pol</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>128</id>
+		<english>Pashto, Pushto</english>
+		<native>پښتو</native>
+		<enabled>0</enabled>
+		<iso6391>ps</iso6391>
+		<iso6392>pus</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>129</id>
+		<english>Portuguese</english>
+		<native>Português</native>
+		<enabled>0</enabled>
+		<iso6391>pt</iso6391>
+		<iso6392>por</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>130</id>
+		<english>Quechua</english>
+		<native>Runa Simi, Kichwa</native>
+		<enabled>0</enabled>
+		<iso6391>qu</iso6391>
+		<iso6392>que</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>131</id>
+		<english>Romansh</english>
+		<native>rumantsch grischun</native>
+		<enabled>0</enabled>
+		<iso6391>rm</iso6391>
+		<iso6392>roh</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>132</id>
+		<english>Kirundi</english>
+		<native>kiRundi</native>
+		<enabled>0</enabled>
+		<iso6391>rn</iso6391>
+		<iso6392>run</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>133</id>
+		<english>Romanian, Moldavian, Moldovan</english>
+		<native>română</native>
+		<enabled>0</enabled>
+		<iso6391>ro</iso6391>
+		<iso6392>ron</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>134</id>
+		<english>Russian</english>
+		<native>Русский язык</native>
+		<enabled>0</enabled>
+		<iso6391>ru</iso6391>
+		<iso6392>rus</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>135</id>
+		<english>Kinyarwanda</english>
+		<native>Ikinyarwanda</native>
+		<enabled>0</enabled>
+		<iso6391>rw</iso6391>
+		<iso6392>kin</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>136</id>
+		<english>Sanskrit</english>
+		<native>संस्कृतम्</native>
+		<enabled>0</enabled>
+		<iso6391>sa</iso6391>
+		<iso6392>san</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>137</id>
+		<english>Sardinian</english>
+		<native>sardu</native>
+		<enabled>0</enabled>
+		<iso6391>sc</iso6391>
+		<iso6392>srd</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>138</id>
+		<english>Sindhi</english>
+		<native>सिन्धी, سنڌي، سندھی‎</native>
+		<enabled>0</enabled>
+		<iso6391>sd</iso6391>
+		<iso6392>snd</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>139</id>
+		<english>Northern Sami</english>
+		<native>Davvisámegiella</native>
+		<enabled>0</enabled>
+		<iso6391>se</iso6391>
+		<iso6392>sme</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>140</id>
+		<english>Samoan</english>
+		<native>gagana fa&#39;a Samoa</native>
+		<enabled>0</enabled>
+		<iso6391>sm</iso6391>
+		<iso6392>smo</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>141</id>
+		<english>Sango</english>
+		<native>yângâ tî sängö</native>
+		<enabled>0</enabled>
+		<iso6391>sg</iso6391>
+		<iso6392>sag</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>142</id>
+		<english>Serbian</english>
+		<native>српски језик</native>
+		<enabled>0</enabled>
+		<iso6391>sr</iso6391>
+		<iso6392>srp</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>143</id>
+		<english>Scottish Gaelic; Gaelic</english>
+		<native>Gàidhlig</native>
+		<enabled>0</enabled>
+		<iso6391>gd</iso6391>
+		<iso6392>gla</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>144</id>
+		<english>Shona</english>
+		<native>chiShona</native>
+		<enabled>0</enabled>
+		<iso6391>sn</iso6391>
+		<iso6392>sna</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>145</id>
+		<english>Sinhala, Sinhalese</english>
+		<native>සිංහල</native>
+		<enabled>0</enabled>
+		<iso6391>si</iso6391>
+		<iso6392>sin</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>146</id>
+		<english>Slovak</english>
+		<native>slovenčina</native>
+		<enabled>0</enabled>
+		<iso6391>sk</iso6391>
+		<iso6392>slk</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>147</id>
+		<english>Slovene</english>
+		<native>slovenščina</native>
+		<enabled>0</enabled>
+		<iso6391>sl</iso6391>
+		<iso6392>slv</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>148</id>
+		<english>Somali</english>
+		<native>Soomaaliga, af Soomaali</native>
+		<enabled>0</enabled>
+		<iso6391>so</iso6391>
+		<iso6392>som</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>149</id>
+		<english>Southern Sotho</english>
+		<native>Sesotho</native>
+		<enabled>0</enabled>
+		<iso6391>st</iso6391>
+		<iso6392>sot</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>150</id>
+		<english>Spanish; Castilian</english>
+		<native>español, castellano</native>
+		<enabled>0</enabled>
+		<iso6391>es</iso6391>
+		<iso6392>spa</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>151</id>
+		<english>Sundanese</english>
+		<native>Basa Sunda</native>
+		<enabled>0</enabled>
+		<iso6391>su</iso6391>
+		<iso6392>sun</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>152</id>
+		<english>Swahili</english>
+		<native>Kiswahili</native>
+		<enabled>0</enabled>
+		<iso6391>sw</iso6391>
+		<iso6392>swa</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>153</id>
+		<english>Swati</english>
+		<native>SiSwati</native>
+		<enabled>0</enabled>
+		<iso6391>ss</iso6391>
+		<iso6392>ssw</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>154</id>
+		<english>Swedish</english>
+		<native>svenska</native>
+		<enabled>0</enabled>
+		<iso6391>sv</iso6391>
+		<iso6392>swe</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>155</id>
+		<english>Tamil</english>
+		<native>தமிழ்</native>
+		<enabled>0</enabled>
+		<iso6391>ta</iso6391>
+		<iso6392>tam</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>156</id>
+		<english>Telugu</english>
+		<native>తెలుగు</native>
+		<enabled>0</enabled>
+		<iso6391>te</iso6391>
+		<iso6392>tel</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>157</id>
+		<english>Tajik</english>
+		<native>тоҷикӣ, toğikī, تاجیکی‎</native>
+		<enabled>0</enabled>
+		<iso6391>tg</iso6391>
+		<iso6392>tgk</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>158</id>
+		<english>Thai</english>
+		<native>ไทย</native>
+		<enabled>0</enabled>
+		<iso6391>th</iso6391>
+		<iso6392>tha</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>159</id>
+		<english>Tigrinya</english>
+		<native>ትግርኛ</native>
+		<enabled>0</enabled>
+		<iso6391>ti</iso6391>
+		<iso6392>tir</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>160</id>
+		<english>Tibetan Standard, Tibetan, Central</english>
+		<native>བོད་ཡིག</native>
+		<enabled>0</enabled>
+		<iso6391>bo</iso6391>
+		<iso6392>bod</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>161</id>
+		<english>Turkmen</english>
+		<native>Türkmen, Түркмен</native>
+		<enabled>0</enabled>
+		<iso6391>tk</iso6391>
+		<iso6392>tuk</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>162</id>
+		<english>Tagalog</english>
+		<native>Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔</native>
+		<enabled>0</enabled>
+		<iso6391>tl</iso6391>
+		<iso6392>tgl</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>163</id>
+		<english>Tswana</english>
+		<native>Setswana</native>
+		<enabled>0</enabled>
+		<iso6391>tn</iso6391>
+		<iso6392>tsn</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>164</id>
+		<english>Tonga (Tonga Islands)</english>
+		<native>faka Tonga</native>
+		<enabled>0</enabled>
+		<iso6391>to</iso6391>
+		<iso6392>ton</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>165</id>
+		<english>Turkish</english>
+		<native>Türkçe</native>
+		<enabled>0</enabled>
+		<iso6391>tr</iso6391>
+		<iso6392>tur</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>166</id>
+		<english>Tsonga</english>
+		<native>Xitsonga</native>
+		<enabled>0</enabled>
+		<iso6391>ts</iso6391>
+		<iso6392>tso</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>167</id>
+		<english>Tatar</english>
+		<native>татарча, tatarça, تاتارچا‎</native>
+		<enabled>0</enabled>
+		<iso6391>tt</iso6391>
+		<iso6392>tat</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>168</id>
+		<english>Twi</english>
+		<native>Twi</native>
+		<enabled>0</enabled>
+		<iso6391>tw</iso6391>
+		<iso6392>twi</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>169</id>
+		<english>Tahitian</english>
+		<native>Reo Mā`ohi</native>
+		<enabled>0</enabled>
+		<iso6391>ty</iso6391>
+		<iso6392>tah</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>170</id>
+		<english>Uighur, Uyghur</english>
+		<native>Uyƣurqə, ئۇيغۇرچە‎</native>
+		<enabled>0</enabled>
+		<iso6391>ug</iso6391>
+		<iso6392>uig</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>171</id>
+		<english>Ukrainian</english>
+		<native>Українська</native>
+		<enabled>0</enabled>
+		<iso6391>uk</iso6391>
+		<iso6392>ukr</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>172</id>
+		<english>Urdu</english>
+		<native>اردو</native>
+		<enabled>0</enabled>
+		<iso6391>ur</iso6391>
+		<iso6392>urd</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>173</id>
+		<english>Uzbek</english>
+		<native>O&#39;zbek, Ўзбек, أۇزبېك‎</native>
+		<enabled>0</enabled>
+		<iso6391>uz</iso6391>
+		<iso6392>uzb</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>174</id>
+		<english>Venda</english>
+		<native>Tshivenḓa</native>
+		<enabled>0</enabled>
+		<iso6391>ve</iso6391>
+		<iso6392>ven</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>175</id>
+		<english>Vietnamese</english>
+		<native>Tiếng Việt</native>
+		<enabled>0</enabled>
+		<iso6391>vi</iso6391>
+		<iso6392>vie</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>176</id>
+		<english>Volapük</english>
+		<native>Volapük</native>
+		<enabled>0</enabled>
+		<iso6391>vo</iso6391>
+		<iso6392>vol</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>177</id>
+		<english>Walloon</english>
+		<native>Walon</native>
+		<enabled>0</enabled>
+		<iso6391>wa</iso6391>
+		<iso6392>wln</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>178</id>
+		<english>Welsh</english>
+		<native>Cymraeg</native>
+		<enabled>0</enabled>
+		<iso6391>cy</iso6391>
+		<iso6392>cym</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>179</id>
+		<english>Wolof</english>
+		<native>Wollof</native>
+		<enabled>0</enabled>
+		<iso6391>wo</iso6391>
+		<iso6392>wol</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>180</id>
+		<english>Western Frisian</english>
+		<native>Frysk</native>
+		<enabled>0</enabled>
+		<iso6391>fy</iso6391>
+		<iso6392>fry</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>181</id>
+		<english>Xhosa</english>
+		<native>isiXhosa</native>
+		<enabled>0</enabled>
+		<iso6391>xh</iso6391>
+		<iso6392>xho</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>182</id>
+		<english>Yiddish</english>
+		<native>ייִדיש</native>
+		<enabled>0</enabled>
+		<iso6391>yi</iso6391>
+		<iso6392>yid</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>183</id>
+		<english>Yoruba</english>
+		<native>Yorùbá</native>
+		<enabled>0</enabled>
+		<iso6391>yo</iso6391>
+		<iso6392>yor</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>184</id>
+		<english>Zhuang, Chuang</english>
+		<native>Saɯ cueŋƅ, Saw cuengh</native>
+		<enabled>0</enabled>
+		<iso6391>za</iso6391>
+		<iso6392>zha</iso6392>
+	</ROW>
+
+	<ROW>
+		<id>185</id>
+		<english>Zulu</english>
+		<native>isiZulu</native>
+		<enabled>0</enabled>
+		<iso6391>zu</iso6391>
+		<iso6392>zul</iso6392>
+	</ROW>
+</DATA>
